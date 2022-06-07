@@ -6,4 +6,4 @@
 
 ## Lancement du projet
 
-* Lancer dans un navigateur le `index.html`
+* Lancer dans un navigateur le `index.html` et prennez-en plein la vue
